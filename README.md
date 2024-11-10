@@ -1,5 +1,5 @@
 👋 Hi there, I’m @shaijad7 (Shaikh Shaijad) <br>
-👀 I’m interested in Full Stack Development, DSA, Java, C++, and Python <br>
+👀 I’m interested  Java, C++, and Python <br>
 🌱 I’m currently learning DSA concepts and Full Stack technologies <br>
 💞️ I’m looking to collaborate on open-source projects and coding challenges <br>
 📫 How to reach me: [shaijadshaikh8380@gmail.com] <br>
