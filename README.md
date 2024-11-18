@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **DSA,Fullstack Development and Python**
 
-- 📫 How to reach me **shaijadshaikh@gmail.com**
+- 📫 How to reach me **shaijadshaikh8380@gmail.com**
 
 - ⚡ Fun fact **I'm funny 😄**
 
